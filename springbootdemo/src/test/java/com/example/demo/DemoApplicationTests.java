@@ -17,6 +17,14 @@ class DemoApplicationTests {
     @Autowired
     private UserMapper userMapper;
 
+    /**
+     * @Description: 从数据库获得加密数据，经过dao层进行自动解密
+    
+     * @Date: 2020/2/15 10:35
+     * @Author: fuguowen
+     * @Return 
+     * @Throws 
+     */
     @Test
     void userTest() {
         User user = userMapper.selectById(4);
@@ -24,6 +32,14 @@ class DemoApplicationTests {
 
     }
 
+    /**
+     * @Description: 创建对象，操作dao层自动对数据加密，插入数据库
+    
+     * @Date: 2020/2/15 10:35
+     * @Author: fuguowen
+     * @Return 
+     * @Throws 
+     */
     @Test
     void userTest2() {
         User user=new User();

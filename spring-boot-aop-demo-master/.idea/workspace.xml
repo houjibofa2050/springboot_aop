@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d313ac3b-5699-4ab3-a124-3df029961ee9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/agger/springbootaopdemo/SpringBootAopDemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/agger/springbootaopdemo/annotation/Secret.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/agger/springbootaopdemo/aop/LogAOP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/agger/springbootaopdemo/aop/SecretAOPController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/agger/springbootaopdemo/controller/DeptController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/agger/springbootaopdemo/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/agger/springbootaopdemo/utils/AESUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/agger/springbootaopdemo/vo/BaseVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/agger/springbootaopdemo/vo/DeptVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/agger/springbootaopdemo/vo/ResultVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/agger/springbootaopdemo/vo/UserVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/agger/springbootaopdemo/SpringBootAopDemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootdemo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootdemo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,15 +81,16 @@
       <option name="presentableId" value="Default" />
       <updated>1581730720394</updated>
       <workItem from="1581730723930" duration="2058000" />
-      <workItem from="1581733706335" duration="122000" />
+      <workItem from="1581733706335" duration="671000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2180000" />
+    <option name="totallyTimeSpent" value="2729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25268096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
